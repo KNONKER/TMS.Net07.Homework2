@@ -1,0 +1,7 @@
+C:\teachmeskills\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeek\DaysOfWeek2\DaysOfWeek2\DaysOfWeek2\bin\Debug\DaysOfWeek2.exe.config
+C:\teachmeskills\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeek\DaysOfWeek2\DaysOfWeek2\DaysOfWeek2\bin\Debug\DaysOfWeek2.exe
+C:\teachmeskills\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeek\DaysOfWeek2\DaysOfWeek2\DaysOfWeek2\bin\Debug\DaysOfWeek2.pdb
+C:\teachmeskills\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeek\DaysOfWeek2\DaysOfWeek2\DaysOfWeek2\obj\Debug\DaysOfWeek2.csprojAssemblyReference.cache
+C:\teachmeskills\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeek\DaysOfWeek2\DaysOfWeek2\DaysOfWeek2\obj\Debug\DaysOfWeek2.csproj.CoreCompileInputs.cache
+C:\teachmeskills\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeek\DaysOfWeek2\DaysOfWeek2\DaysOfWeek2\obj\Debug\DaysOfWeek2.exe
+C:\teachmeskills\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeek\DaysOfWeek2\DaysOfWeek2\DaysOfWeek2\obj\Debug\DaysOfWeek2.pdb
